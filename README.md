@@ -1,6 +1,7 @@
 # Welcome to Future Quantum Innovations 
 
-![image](https://github.com/Future-Quantum/Future-Quantum/assets/171366989/603c558a-652b-4620-8f43-c4551832a889)
+![image](https://github.com/Future-Quantum-Innovations/Future-Quantum-Innovations/assets/171366989/c0a34bfa-ccf2-430b-8443-605fe17e5845)
+
 
 ## About the company 
 We are boldly pioneering tomorrow's solutions today! With a dedicated team of experts in design and technical prowess, we're on a mission to revolutionize India's future. Our focus : _Tackling real-world problems head-on and elevating lives through groundbreaking innovation._ 
